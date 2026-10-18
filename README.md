@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**crizzzly/crizzzly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chrissi 👋
 
-Here are some ideas to get you started:
+Software Engineer focused on backend, IoT and technical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software that connects backend services, embedded devices and real-world systems.
+
+### Focus areas
+
+- **Backend:** Kotlin, Java, Spring Boot, PostgreSQL
+- **IoT & Embedded:** C/C++, ESP32, Arduino, Raspberry Pi
+- **Systems:** Python, Linux, Docker
+
+### Selected projects
+
+- **[Affenbande Backend](https://github.com/crizzzly/AffembandeBackend)** — Kotlin, Spring Boot and PostgreSQL
+- **[Chess Clock](https://github.com/crizzzly/EmbeddedSystems_chess_clock)** — Embedded C for the Microchip dsPIC33
+- **[LockyLocker](https://github.com/crizzzly/LockyLockerLockingSystem)** — NFC-based electronic locking system
+- **[CS-Warn](https://github.com/crizzzly/CS-Warn)** — Python-based astronomy weather bot
+- **[RainbowWarrior](https://github.com/crizzzly/RainbowWarrior)** — Educational ESP32 project using MicroPython
