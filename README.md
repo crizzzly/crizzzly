@@ -9,8 +9,8 @@ I enjoy building software that connects backend services, embedded devices and r
 
 - **Backend:** Kotlin, Java, Spring Boot, PostgreSQL
 - **IoT & Embedded:** C/C++, ESP32, Arduino, Raspberry Pi
-- **Systems:** Python, Linux, Docker
-
+- **Scripting & Automation:** Python, Linux, Docker
+  
 ### Selected projects
 
 - **[Affenbande Backend](https://github.com/crizzzly/AffembandeBackend)** — Kotlin, Spring Boot and PostgreSQL
